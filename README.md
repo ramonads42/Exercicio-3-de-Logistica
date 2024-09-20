@@ -21,13 +21,13 @@
 ## Simulação de Pico de Demanda
 
 - Novo Cálculo de Demandas:
--Loja 1: 180 unidades
--Loja 2: 240 unidades
--Loja 3: 360 unidades
--Loja 4: 216 unidades
--Loja 5: 300 unidades
--Loja 6: 420 unidades
--Loja 7: 264 unidades
+  - Loja 1: 180 unidades
+  - Loja 2: 240 unidades
+  - Loja 3: 360 unidades
+  - Loja 4: 216 unidades
+  - Loja 5: 300 unidades
+  - Loja 6: 420 unidades
+  - Loja 7: 264 unidades
 
 - Resultado:
   - Capacidade do CD1 excedida em 100 unidades.
